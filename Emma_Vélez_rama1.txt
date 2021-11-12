@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Linea 1
 Linea 2
 Linea 3
 Master1
 Master2
+=======
+Nueva linea1
+Nueva linea2
+Nueva linea3
+>>>>>>> Emma_Vélez_Rama
